@@ -1,4 +1,4 @@
-module github.com/hashicorp/consul
+module github.com/rposudnevskiy/consul
 
 go 1.18
 
